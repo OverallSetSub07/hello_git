@@ -1,1 +1,2 @@
 file_to_ignore.txt
+**/. "archivo en cualquier carpeta hija con este nombre" 
